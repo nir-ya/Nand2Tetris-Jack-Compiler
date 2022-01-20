@@ -1,5 +1,5 @@
 # Nand2Tetris - Jack Compiler
-Project #11 in "Nand to Tetris" course
+Project #11 in "Nand to Tetris" course.
 
 specification: https://www.nand2tetris.org/project11
 
